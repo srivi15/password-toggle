@@ -1,4 +1,4 @@
-# password-toggle
+# Password toggle
 A simple javascript exercise to show and hide password.
 
 # Screenshot of the output:
